@@ -1,5 +1,9 @@
 # Projects
 
+
+# OWASP Juice Shop Pentesting Lab using Caido (Parrot OS + Docker)
+https://github.com/MrSanthosh-dev/OWASP-JuiceShop-Pentesting-Lab
+
 # Deploying-VPN-server-on-AWS
 https://github.com/MrSanthosh-dev/MrSanthosh-dev-Deploying-VPN-server-on-AWS-
 
